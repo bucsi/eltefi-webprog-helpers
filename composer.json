@@ -1,10 +1,10 @@
 {
-    "name": "eltefi/webprog-helpers",
+    "name": "elte-fi/webprog-helpers",
     "description": "Helper classes from ELTE FI's Web programming course as a composer package",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Eltefi\\WebprogHelpers\\": "src/"
+            "ElteFi\\WebprogHelpers\\": "src/"
         }
     },
     "authors": [
