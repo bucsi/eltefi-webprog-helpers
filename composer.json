@@ -4,7 +4,6 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "ElteFi\\WebprogHelpers\\": "src/",
             "ElteFi\\WebprogHelpers\\Storage\\": "src/storage",
             "ElteFi\\WebprogHelpers\\FileIO\\": "src/fileio"
         }
