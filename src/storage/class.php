@@ -1,6 +1,8 @@
 <?php
 
-namespace ElteFi\WebprogHelpers;
+namespace ElteFi\WebprogHelpers\Storage;
+
+use ElteFi\WebprogHelpers\FileIO\IFileIO;
 
 class Storage implements IStorage
 {

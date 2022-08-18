@@ -1,6 +1,6 @@
 <?php
 
-namespace ElteFi\WebprogHelpers;
+namespace ElteFi\WebprogHelpers\Storage;
 
 interface IStorage
 {
