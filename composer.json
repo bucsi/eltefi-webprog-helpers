@@ -12,6 +12,6 @@
             "name": "Győző Horváth, et al"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
