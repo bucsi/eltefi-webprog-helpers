@@ -1,6 +1,6 @@
 <?php
 
-namespace eltefi\WebprogHelpers;
+namespace ElteFi\WebprogHelpers;
 
 
 class SerializeIO extends FileIO
