@@ -1,0 +1,17 @@
+{
+    "name": "eltefi/webprog-helpers",
+    "description": "Helper classes from ELTE FI's Web programming course as a composer package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Eltefi\\WebprogHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Győző Horváth, et al"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
